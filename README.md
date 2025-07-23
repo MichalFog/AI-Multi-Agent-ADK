@@ -33,7 +33,7 @@ multi_tool_agent/
 ### 1. Clone & Set up Environment
 
 ```bash
-git clone https://github.com/MichalFog/multi-tool-agent-adk.git
+git clone https://github.com/MichalFog/AI-Multi-Agent-ADK.git
 cd multi-tool-agent-adk
 
 # Create and activate virtual environment
