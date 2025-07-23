@@ -96,5 +96,3 @@ Open the URL in your browser (e.g. http://localhost:8000), and select your agent
 ---
 
 ## 📜 License
-
-MIT License
