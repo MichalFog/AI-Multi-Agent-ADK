@@ -94,4 +94,3 @@ async def main():
     print(f"Runner created for agent '{runner.agent.name}'.")
 
     # Ask a question
-asyncio.run(main())
